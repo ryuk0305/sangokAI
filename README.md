@@ -1,6 +1,7 @@
 산곡고 1학년들의 소중한 설문데이터 및 데이터 실습을 위한 csv모음
 
 <Student_performance_data 파일 설명>_data from kaggle_"https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset"
+
 🆔 학생 ID
 StudentID: 각 학생에게 부여된 고유 번호 (1001번부터 3392번까지).
 
